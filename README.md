@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter and Golang Projects.<br>🤝 I’m looking for Flutter and/or Golang innovative and challenging projects/jobs.<br>🌱 I’m currently learning about Blockchain.<br>📫 Reach me using the social links below.<br>⚡ Fun fact: I can not start my day without Coffee.
+🔭 I’m currently working on Flutter and NestJs Projects.<br>🤝 I’m looking for Flutter and/or NestJs innovative and challenging projects/jobs.<br>🌱 I’m currently learning about Blockchain.<br>📫 Reach me using the social links below.<br>⚡ Fun fact: I can not start my day without Coffee.
 
 
 ## 🌐 Socials:
